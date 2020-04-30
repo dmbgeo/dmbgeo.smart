@@ -1,0 +1,32 @@
+
+.form-required 
+{
+	color: red;
+}
+
+
+
+
+
+.errors-fld,.success-fld {
+	display: block;
+	padding: 10px 5px;
+	color:white;
+	border-radius:5px;
+	font-size: 13px;
+	
+}
+
+/* .errors-fld p,.success-fld p  */
+.errors-fld{
+	background: #E05252;
+}
+
+
+.success-fld{
+    background: #52E052;
+}
+
+.b-quick-form {
+    max-width: 350px!important;
+}
